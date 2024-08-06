@@ -19,7 +19,7 @@
     "eslint": "^8.43.0"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": "^22.5.1"
   },
   "author": "Your Name",
   "license": "MIT"
