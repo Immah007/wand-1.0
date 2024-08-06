@@ -21,10 +21,10 @@
   "engines": {
     "node": "^22.5.1"
   },
+  "type": "module",
   "author": "Your Name",
   "license": "MIT"
 }
-
 
 
 
